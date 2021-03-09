@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Puri_Malti_TimerApp</string>
+    <string name="back_message">Go Back</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="txtTimer">%1$s : %2$s</string>
+    <string-array name="minutes_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="seconds_array">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string name="title_activity_timer">TimerActivity</string>
+</resources>
